@@ -4,9 +4,9 @@
 }
 
 .colour-border{
-  border: 10px solid rgb(97, 45, 192);
+  border: 10px solid rgb(12, 189, 71);
   padding: 10px;
-  background-color: rgb(173, 173, 211);
+  background-color: rgba(199, 211, 173, 0.493);
 }
 
 .header{
