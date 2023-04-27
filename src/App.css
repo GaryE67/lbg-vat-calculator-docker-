@@ -1,11 +1,12 @@
 .field{
-  width: 300px;
+  width: 270px;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 10px solid rgb(97, 45, 192);
   padding: 10px;
+  background-color: rgb(173, 173, 211);
 }
 
 .header{
